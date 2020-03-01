@@ -10,6 +10,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Second commit
+          Third commit
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
