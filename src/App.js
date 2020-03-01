@@ -12,6 +12,7 @@ function App() {
           Second commit
           Third commit
           Fourth commit
+          5 and 6
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
